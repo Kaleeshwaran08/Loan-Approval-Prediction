@@ -2,10 +2,7 @@
 
 **Indroduction**
 
-The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. 
-These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. 
-To automate this process, they have given a problem identifying the customer segments eligible for loan amounts to target these customers specifically. 
-Here they have provided a partial data set.
+Loan approval prediction is traditional preoblem and given at various Hakathon on various platforms such as Kaggle. Training datset consists of Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area and Loan_Status (Approved/Rejected). Using this data a Machine Learning model is to create such that next time it will predict that if Loan for particular application is to approve or not.
 
 **Data descrption**
 
