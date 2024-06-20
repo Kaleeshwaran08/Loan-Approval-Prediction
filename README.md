@@ -21,3 +21,9 @@ Loan approval prediction is traditional preoblem and given at various Hakathon o
 
 To try most possible ways to get maximum accuracy number of Machine Learning Algorithms are tried with data with Parameter tunning. 
 Also tried with Voting Ensemble Method. Aim was to check efficiency of classifiers on the given data.
+
+**Model Building: Train and evaluate multiple classifiers:**
+Logistic Regression, Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, Gradient Boosting Classifier, K-Nearest Neighbors Classifier, XGBoost Classifier.
+
+**Model Evaluation:**
+Select the best-performing model and predict outcomes for the test dataset.
