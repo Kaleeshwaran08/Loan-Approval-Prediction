@@ -24,7 +24,7 @@ Also tried with Voting Ensemble Method. Aim was to check efficiency of classifie
 
 **Model Building: Train and evaluate multiple classifiers:**
 
-Logistic Regression, Decision Tree Classifier, Random Forest Classifier,XGBoost Classifier.
+Logistic Regression, Decision Tree Classifier, Random Forest Classifier,KNeighborsClassifier ,XGBoost Classifier,DecisionTreeClassifier ,GaussianNB
 
 **Model Evaluation:**
 Select the best-performing model and predict outcomes for the test dataset.
